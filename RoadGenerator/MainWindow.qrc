@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="MainWindow">
+    <file>Resources/Undo_24x24.png</file>
+    <file>Resources/Save_24x24.png</file>
+    <file>Resources/Paste_24x24.png</file>
+    <file>Resources/Open_24x24.png</file>
+    <file>Resources/Delete_24x24.png</file>
+    <file>Resources/Cut_24x24.png</file>
+    <file>Resources/Copy_24x24.png</file>
+    <file>Resources/New_24x24.png</file>
+  </qresource>
+</RCC>

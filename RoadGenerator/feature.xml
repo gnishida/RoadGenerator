@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<features>
+	<feature type="grid">
+		<angle1>1.0650886</angle1>
+		<angle2>2.6358835</angle2>
+		<length1>
+			<data key="20.0">0.034</data>
+			<data key="40.0">0.068</data>
+			<data key="60.0">0.724</data>
+			<data key="80.0">1.0</data>
+		</length1>
+		<length2>
+			<data key="20.0">0.088</data>
+			<data key="40.0">0.166</data>
+			<data key="60.0">0.211</data>
+			<data key="80.0">0.233</data>
+			<data key="100.0">0.288</data>
+			<data key="120.0">0.311</data>
+			<data key="140.0">0.755</data>
+			<data key="160.0">0.788</data>
+			<data key="180.0">0.800</data>
+			<data key="240.0">0.833</data>
+			<data key="260.0">0.933</data>
+			<data key="280.0">0.955</data>
+			<data key="300.0">1.0</data>
+		</length2>
+	</feature>
+</features>
